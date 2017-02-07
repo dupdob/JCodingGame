@@ -1,3 +1,5 @@
+package CommunityGames;
+
 import java.util.*;
 
 /**
