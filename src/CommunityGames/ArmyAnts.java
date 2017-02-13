@@ -22,7 +22,7 @@ import java.util.Scanner;
 
  Your job is to determine the order of ants in the passage after T seconds.
  **/
-class Solution {
+class ArmyAnts {
 
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
