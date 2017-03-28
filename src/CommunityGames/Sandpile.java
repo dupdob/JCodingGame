@@ -12,6 +12,7 @@ A sandpile is a square matrix of natural numbers between 0 and 3, representing h
         020 + 020 = 040 -> 101
         000   000   000    010
         */
+
 class Sandpile {
 
     public static void main(String args[]) {
